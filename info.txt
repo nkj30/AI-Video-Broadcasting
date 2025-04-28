@@ -1,0 +1,13 @@
+## Learnings:
+
+1. Flow of a Data Product
+2. Software Architecture Layers
+3. API
+4. Processing of Data
+5. How Pipelines works
+
+
+## Tech-Stack:
+
+HTML , CSS , Javascript
+FastAPI , YOLOv8 , 
