@@ -136,15 +136,3 @@ ERROR: GPU memory allocation failed
 SOLUTION: Reduce frame resolution or upgrade GPU
 ```
 
-## License 📄
-
-MIT License - See [LICENSE](LICENSE) for details
-
----
-
-**Support**  
-For assistance, open a GitHub issue with:
-1. Error logs
-2. Reproduction steps
-3. Hardware specifications (CPU/GPU/RAM)
-```
